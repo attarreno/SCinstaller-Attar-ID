@@ -3,3 +3,10 @@ Or Attar Nation,Subscribe YouTube || Attar Nation
 And follow my instagram : @attarnation007
 Also follow me on github :) The usage script
 Thank You :)
+$ pkg upgrade && pkg update
+$ pkg install git
+$ pkg install sh
+$ pkg install bash / $ apt install bash
+$ git clone https://github.com/StylishTheme
+$ cd StylishTheme
+$ sh Stylish.sh
